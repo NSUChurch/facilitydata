@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Report Data on a Residential Facility
 
-You can use the [editor on GitHub](https://github.com/NSUChurch/facilitydata/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this site is to collect data on non-governmental residential facilities that extrajudicially (without a court order) incarcerate minors.
 
-### Markdown
+Facilitydata.org is a project of [No Stone Unturned Federated Church](https://nsuchurch.org).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is our intent to share data collected through this site (once redacted and as allowable by law) with other trusted entities who have publicly expressed a committment to stopping the troubled teen industry from causing further harm to children and teens.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## How to Help
 
-- Bulleted
-- List
+### 1. [Submit Data on a Facility](https://forms.zohopublic.com/nsuchurch/form/Submitdataonaresidentialfacility/formperma/39BNx9jrkvgoWiA9G9anhqcD94cwqDv9H77pHxxfQgA)
 
-1. Numbered
-2. List
+or
 
-**Bold** and _Italic_ and `Code` text
+### 2. [Donate](https://donorbox.org/nostoneunturned)
 
-[Link](url) and ![Image](src)
-```
+or
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 3. Volunteer
 
-### Jekyll Themes
+Based on the volume of data that may be submitted to this site, there may be a need for volunteers to help triage, redact, compile and report data. Volunteers must submit an application and pass a background check. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NSUChurch/facilitydata/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Prospective volunteers shall acknowledge that laws exist, both state and federal, that govern what type of data may be released and to whom. In addition to following the law, volunteers will agree to examine all potential ethical considerations regarding the processing of information submitted to this site. Volunteers agree to acknowledge the potential sensitivity of all submitted data and to remain vigilant about protecting survivors and their information.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you're interested in volunteering, please send your resume to support@nsuchurch.org.
